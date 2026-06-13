@@ -5,6 +5,7 @@ numpy
 xarray
 netCDF4
 zarr
+gdown
 gcsfs
 fsspec
 matplotlib
